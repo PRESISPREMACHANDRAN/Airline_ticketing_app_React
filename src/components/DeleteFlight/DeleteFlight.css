@@ -1,0 +1,22 @@
+.deleteFlight{
+     padding-top:30px;
+    height: 590px;
+    background-color:rgb(158, 208, 220);
+    margin-bottom: 20px;
+    margin-top: 20px;
+    justify-items: center;
+
+
+  
+}
+.container{
+    background-color: rgb(158, 208, 220);
+}
+
+#buttonDelete{
+    margin-top: 20px;
+    margin-left: 20px;
+    width:100px;
+    margin-right: 30px;
+
+}

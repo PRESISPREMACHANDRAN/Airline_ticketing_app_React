@@ -1,0 +1,14 @@
+.addFlight{
+    padding:30px;
+    height: 590px;
+    background-color:rgb(158, 208, 220);
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+#buttonAddFlight{
+    margin-top: 20px;
+    margin-right: 40px;
+    width:80px;
+}

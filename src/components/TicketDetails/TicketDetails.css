@@ -1,0 +1,27 @@
+.ticketLogin{
+    padding:30px;
+    height: 590px;
+    background-color:rgb(158, 208, 220);
+   margin-top: 5px;
+   margin-bottom: 5px;
+    margin-right:60px;
+    margin-left:60px;
+}
+
+
+#buttonLogin{
+    margin-top: 20px;
+    margin-right: 40px;
+    width:100px;
+  
+}
+
+.form-check-label {
+  margin-right: 10px;
+}
+
+
+.container{
+    align-items: center;
+}
+

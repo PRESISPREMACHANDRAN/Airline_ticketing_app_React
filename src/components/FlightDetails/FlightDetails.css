@@ -1,0 +1,17 @@
+.card-header{
+    text-align: center;
+    font-size:xx-large;
+    font-weight: 500;
+}
+
+.card{
+    height:400px;
+    margin-top: 60px;
+    background-color: honeydew;
+}
+
+.continueButton{
+    width:200px;
+    margin-top: 30px;
+    margin-left: 580px;
+}
